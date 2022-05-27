@@ -1,2 +1,2 @@
-# benchmark_datasets
-Benchmark datasets
+# Benchmark Datasets
+Benchmark and test datasets
